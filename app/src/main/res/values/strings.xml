@@ -4,4 +4,7 @@
     <string name="senha">Senha</string>
     <string name="email">Email</string>
     <string name="text_cadastro">Crie uma conta clicando aqui</string>
+    <string name="text_cadastre_se">Cadastre-se</string>
+    <string name="nome">Nome</string>
+    <string name="cadastrar">Cadastrar</string>
 </resources>
