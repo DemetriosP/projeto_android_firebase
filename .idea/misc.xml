@@ -6,10 +6,12 @@
         <entry key="..\:/Users/panta/AndroidStudioProjects/ProjetoFirebase/app/src/main/res/drawable/background.xml" value="0.178" />
         <entry key="..\:/Users/panta/AndroidStudioProjects/ProjetoFirebase/app/src/main/res/drawable/button.xml" value="0.1965" />
         <entry key="..\:/Users/panta/AndroidStudioProjects/ProjetoFirebase/app/src/main/res/drawable/container_components.xml" value="0.178" />
+        <entry key="..\:/Users/panta/AndroidStudioProjects/ProjetoFirebase/app/src/main/res/drawable/container_user.xml" value="0.228" />
         <entry key="..\:/Users/panta/AndroidStudioProjects/ProjetoFirebase/app/src/main/res/drawable/edit_text.xml" value="0.178" />
-        <entry key="..\:/Users/panta/AndroidStudioProjects/ProjetoFirebase/app/src/main/res/layout/activity_form_cadastro.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/panta/AndroidStudioProjects/ProjetoFirebase/app/src/main/res/layout/activity_form_cadastro.xml" value="0.25" />
         <entry key="..\:/Users/panta/AndroidStudioProjects/ProjetoFirebase/app/src/main/res/layout/activity_form_login.xml" value="0.22" />
         <entry key="..\:/Users/panta/AndroidStudioProjects/ProjetoFirebase/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/panta/AndroidStudioProjects/ProjetoFirebase/app/src/main/res/layout/activity_tela_principal.xml" value="0.22135416666666666" />
       </map>
     </option>
   </component>
