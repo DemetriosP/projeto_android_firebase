@@ -7,7 +7,5 @@
     <string name="text_cadastre_se">Cadastre-se</string>
     <string name="nome">Nome</string>
     <string name="cadastrar">Cadastrar</string>
-    <string name="nome_usuario">Nome do usuário</string>
-    <string name="email_usuario">E-mail do usuário</string>
     <string name="deslogar">Deslogar</string>
 </resources>
